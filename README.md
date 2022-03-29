@@ -1,4 +1,10 @@
 # boomstream.com video downloader
+NEW!!! -- need find two links:
+1) link with key
+2) m3u8 link
+
+
+
 
 The script downloads videos from boomstream.com streaming service.
 
