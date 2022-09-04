@@ -9,7 +9,7 @@ import argparse
 from base64 import b64decode
 from functools import partial
 
-from lxml.html import fromstring
+# from lxml.html import fromstring
 
 import requests
 
