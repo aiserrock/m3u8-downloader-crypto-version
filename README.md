@@ -1,7 +1,12 @@
 # boomstream.com video downloader
-NEW!!! -- need find two links:
-1) link with key
-2) m3u8 link
+NEW!!! -- need find two links:  
+Step 1 --- link with key like this:  https://play.boomstream.com/api/process/241d2712370f383c325e07570e0367250720112950465c0055555269575a053e5a5b075a5d593e010d533b.   
+  This link need paste into method named run (140 line "key_url"). 
+
+Step 2 --- chunklist.m3u8
+The contents of the file must be put in a fileplaylist.txt
+
+After this run it: python3 boomstream.py
 
 
 
